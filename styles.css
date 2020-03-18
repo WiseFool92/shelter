@@ -8,3 +8,8 @@ p1 {
 div .column {
     width: 300px;
 }
+img {
+    padding: 6px;
+    border: 2; color: aquamarine;
+    margin: 12px;
+}
